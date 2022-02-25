@@ -6,6 +6,9 @@
 
 [Predicting Indego Bike Rides in Philadelphia](https://htmlpreview.github.io/?
 https://github.com/seanm4/Indego/blob/main/IndegoPred.html)
+<img src="https://user-images.githubusercontent.com/90428582/155633503-b63b2592-ef13-424b-97a8-d813a66edc1d.png")
+
+
 
 
 ---
