@@ -35,7 +35,7 @@
 
 [Predicting Home Sale Price in Boulder, CO.](https://htmlpreview.github.io/?https://github.com/seanm4/BoulderHousePrices/blob/main/BoulderHousing.html)
 <br><br>
-<img src="images/boulder.png"/>
+<img src="images/boulderprice.png"/>
 
 ---
 
