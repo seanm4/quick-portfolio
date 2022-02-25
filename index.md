@@ -5,9 +5,7 @@
 ### MUSA
 
 [Predicting Indego Bike Rides in Philadelphia](https://htmlpreview.github.io/?https://github.com/seanm4/Indego/blob/main/IndegoPred.html)
-<img src="images/indego.png"/>
-
-
+<img src="images/indego.gif"/>
 
 
 ---
@@ -20,7 +18,10 @@
 
 ---
 
-### Category Name 2
+[Measuring NDVI in Philadelphia]
+
+
+### Drexel
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
