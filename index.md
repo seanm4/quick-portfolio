@@ -18,7 +18,8 @@
 
 ---
 
-[Measuring NDVI in Philadelphia]
+[NBA Shot Chart](https://github.com/seanm4/NBA_ShotVisualizer)
+<img src="images/nba.png"/>
 
 
 ### Drexel
