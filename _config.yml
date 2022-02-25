@@ -1,9 +1,10 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Sean McClellan # your name (or website title) here
+logo: "/images/headshot.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Graduate student at the University of Pennsylvania
+  Graduating May 2022
   <br><br>
-  Second description 
+  Master's of Urban Spatial Analytics
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
