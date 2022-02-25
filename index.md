@@ -15,8 +15,8 @@
 <img src="images/chicago.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting Home Sale Price in Boulder, CO.](https://htmlpreview.github.io/?https://github.com/seanm4/BoulderHousePrices/blob/main/BoulderHousing.html)
+<img src="images/boulder.png"/>
 
 ---
 
