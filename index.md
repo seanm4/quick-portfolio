@@ -39,7 +39,7 @@
 ---
 
 ### [Calculating NDVI in Philadelphia](https://htmlpreview.github.io/?https://github.com/seanm4/NDVI/blob/main/NDVI.html)
-<img src="images/trees.png"/>
+<img src="images/trees.png"/><img src="images/ndviPhl.png"/>
 
 
 ---
