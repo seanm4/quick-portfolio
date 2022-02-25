@@ -1,7 +1,8 @@
 ## Portfolio
 
----
+Click on each projects title to see more.
 
+---
 
 
 ### [Predicting Indego Bike Rides in Philadelphia](https://htmlpreview.github.io/?https://github.com/seanm4/Indego/blob/main/IndegoPred.html)
