@@ -2,5 +2,5 @@
 
 ### Sean McClellan's Portfolio
 
-[Open Portfolio Here](seanm4.github.io)
+[Open Portfolio Here](https://seanm4.github.io)
 
