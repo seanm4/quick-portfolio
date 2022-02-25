@@ -11,8 +11,8 @@
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predictive Policing in Chicago](https://htmlpreview.github.io/?https://github.com/seanm4/PredictivePolicing-Chicago/blob/main/ChicagoPolicing.html)
+<img src="images/chicago.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
