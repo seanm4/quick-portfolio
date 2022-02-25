@@ -24,7 +24,8 @@
 ---
 
 [Plotting Philly Violence - Hospital Site Selection](https://storymaps.arcgis.com/stories/955a4cf579544ac495d2b4c8ccf45d1d)
-<img src="images/violence.png"/> <img src="shootings.png"/>
+<img src="images/violence.png"/>
+<img src="shootings.png"/>
 
 
 
