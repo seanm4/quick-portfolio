@@ -7,14 +7,9 @@
 [Predicting Indego Bike Rides in Philadelphia](https://htmlpreview.github.io/?https://github.com/seanm4/Indego/blob/main/IndegoPred.html)
 <img src="images/indego.gif"/>
 
-
 ---
 [Predictive Policing in Chicago](https://htmlpreview.github.io/?https://github.com/seanm4/PredictivePolicing-Chicago/blob/main/ChicagoPolicing.html)
 <img src="images/chicago.png"/>
-
----
-[Predicting Home Sale Price in Boulder, CO.](https://htmlpreview.github.io/?https://github.com/seanm4/BoulderHousePrices/blob/main/BoulderHousing.html)
-<img src="images/boulder.png"/>
 
 ---
 
@@ -23,10 +18,18 @@
 
 ---
 
+[Shooting Victims Tracker](https://www.arcgis.com/apps/dashboards/d96e4be773724c42b6617f7915cb0cd6)
+<img src="images/tracker.png"/>
+
+---
+
+[Predicting Home Sale Price in Boulder, CO.](https://htmlpreview.github.io/?https://github.com/seanm4/BoulderHousePrices/blob/main/BoulderHousing.html)
+<img src="images/boulder.png"/>
+
+---
+
 [Plotting Philly Violence - Hospital Site Selection](https://storymaps.arcgis.com/stories/955a4cf579544ac495d2b4c8ccf45d1d)
 <img src="images/violence.png"/> <img src="images/shootings.png"/>
-
-
 
 ---
 
