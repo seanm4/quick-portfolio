@@ -2,10 +2,11 @@
 
 ---
 
-### Category Name 1 
+### MUSA
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting Indego Bike Rides in Philadelphia](https://htmlpreview.github.io/?
+https://github.com/seanm4/Indego/blob/main/IndegoPred.html)
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
