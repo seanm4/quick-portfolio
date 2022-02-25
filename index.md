@@ -34,11 +34,13 @@
 ---
 
 ### [Plotting Philly Violence - Hospital Site Selection](https://storymaps.arcgis.com/stories/955a4cf579544ac495d2b4c8ccf45d1d)
-<img src="images/violence.png"/> <img src="images/shootings.png"/>
+<img src="images/shootings.png"/>
 
 ---
 
+### [Calculating NDVI in Philadelphia](https://htmlpreview.github.io/?https://github.com/seanm4/NDVI/blob/main/NDVI.html)
+<img src="images/trees.png"/>
 
 
-
+---
 ---
