@@ -4,7 +4,7 @@
 
 ### MUSA
 
-[Predicting Indego Bike Rides in Philadelphia](https://github.com/seanm4/Indego/blob/main/IndegoPred.html)
+[Predicting Indego Bike Rides in Philadelphia](https://htmlpreview.github.io/?https://github.com/seanm4/Indego/blob/main/IndegoPred.html)
 <img src="images/indego.png"/>
 
 
