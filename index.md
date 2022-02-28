@@ -29,6 +29,11 @@ Click on each projects title to see more.
 
 ---
 
+### [Predicting Gun Violence](https://github.com/seanm4/seanm4.github.io/blob/master/pdf/gunviolence.pdf)
+<img src="images/gunviolence.png"/>
+
+---
+
 ### [Predicting Home Sale Price in Boulder, CO.](https://htmlpreview.github.io/?https://github.com/seanm4/BoulderHousePrices/blob/main/BoulderHousing.html)
 <img src="images/boulderprice.png"/>
 
