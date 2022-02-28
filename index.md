@@ -29,7 +29,7 @@ Click on each projects title to see more.
 
 ---
 
-### [Predicting Gun Violence](<embed src="https://github.com/seanm4/seanm4.github.io/blob/master/pdf/gunviolence.pdf" width="800px" height="600px" />)
+### [Predicting Gun Violence]<embed src="https://github.com/seanm4/seanm4.github.io/blob/master/pdf/gunviolence.pdf" width="800px" height="600px" />
 <img src="images/gunviolence.png"/>
 
 ---
