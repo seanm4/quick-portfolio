@@ -5,7 +5,7 @@ Click on each project's title to see more.
 ---
 
 
-### [Predicting Indego Bike Rides in Philadelphia](https://htmlpreview.github.io/?https://github.com/seanm4/Indego/blob/main/IndegoPred.html)
+### [Predicting Indego Bike Rides in Philadelphia](https://seanm4.github.io/Indego/IndegoPred.html)
 <img src="images/indego.gif"/>
 
 ---
