@@ -1,6 +1,6 @@
 ## Portfolio
 
-Click on each projects title to see more.
+Click on each project's title to see more.
 
 ---
 
