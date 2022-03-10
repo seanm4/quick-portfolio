@@ -9,7 +9,7 @@ Click on each project's title to see more.
 <img src="images/indego.gif"/>
 
 ---
-### [Predictive Policing in Chicago](https://htmlpreview.github.io/?https://github.com/seanm4/PredictivePolicing-Chicago/blob/main/ChicagoPolicing.html)
+### [Predictive Policing in Chicago](https://seanm4.github.io/PredictivePolicing-Chicago/ChicagoPolicing.html)
 <img src="images/chicago.png"/>
 
 ---
@@ -25,7 +25,7 @@ Click on each project's title to see more.
 
 ---
 
-### [Minimizing Overdoses in Mesa, AZ](https://htmlpreview.github.io/?https://github.com/seanm4/508-Final/blob/main/FinalMarkdown.html)
+### [Minimizing Overdoses in Mesa, AZ](https://seanm4.github.io/508-Final/FinalMarkdown.html)
 <img src="images/overdose.png"/>
 
 ---
@@ -35,7 +35,7 @@ Click on each project's title to see more.
 
 ---
 
-### [Predicting Home Sale Price in Boulder, CO.](https://htmlpreview.github.io/?https://github.com/seanm4/BoulderHousePrices/blob/main/BoulderHousing.html)
+### [Predicting Home Sale Price in Boulder, CO.](https://seanm4.github.io/BoulderHousePrices/BoulderHousing.html)
 <img src="images/boulderprice.png"/>
 
 ---
@@ -45,7 +45,7 @@ Click on each project's title to see more.
 
 ---
 
-### [Calculating NDVI in Philadelphia](https://htmlpreview.github.io/?https://github.com/seanm4/NDVI/blob/main/NDVI.html)
+### [Calculating NDVI in Philadelphia](https://seanm4.github.io/NDVI/NDVI.html)
 <img src="images/ndviPhl.png"/>
 
 
