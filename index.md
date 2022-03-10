@@ -29,7 +29,7 @@ Click on each project's title to see more.
 
 ---
 
-### [Predicting Gun Violence](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/seanm4/seanm4.github.io/master/pdf/gunviolence.pdf)
+### [Predicting Gun Violence](https://seanm4.github.io/philly-gun-violence/gunviolence.pdf)
 <img src="images/gunviolence.png"/>
 
 ---
