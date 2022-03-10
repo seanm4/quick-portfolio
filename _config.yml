@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Graduated Cum Laude from Drexel Univeristy in 2021 with a Bachelor's Degree in Criminology concentrated on Justice Informatics.
   <br><br>
   <a href="https://www.seanmcclellan.myportfolio.com/">Photography Website</a> 
-  
+  <br><br>
   <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/seanm4/resume/main/Resume.pdf">View my Resume</a>
   
 theme: jekyll-theme-minimal
