@@ -4,6 +4,11 @@ Click on each project's title to see more.
 
 ---
 
+### [Philadelphia Eagles Game Day Crime](https://github.io/Eagles/CapstoneMarkdown.html)
+<img src="images/eagles.png"/>
+
+---
+
 ### [Flood Inundation Zones](https://seanm4.github.io/Inundation/CPLN675_HW3_CGYEDM.html)
 <img src="images/inundation.png"/>
 
