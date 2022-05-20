@@ -4,7 +4,7 @@ Click on each project's title to see more.
 
 ---
 
-### [Philadelphia Eagles Game Day Crime](https://github.io/Eagles/CapstoneMarkdown.html)
+### [Philadelphia Eagles Game Day Crime](https://seanm4.github.io/Eagles/CapstoneMarkdown.html)
 <img src="images/eagles.png"/>
 
 ---
