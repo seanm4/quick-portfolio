@@ -10,7 +10,7 @@ Click on each project's title to see more.
 ---
 
 ### [Plotting Philly Violence - Hospital Site Selection](https://storymaps.arcgis.com/stories/955a4cf579544ac495d2b4c8ccf45d1d)
-<img src="images/shootings.png"/>
+<img src="images/hospital.png"/>
 
 ---
 
