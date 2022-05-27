@@ -19,13 +19,13 @@ Click on each project's title to see more.
 
 ---
 
-### [Flood Inundation Zones](https://seanm4.github.io/Inundation/CPLN675_HW3_CGYEDM.html)
-<img src="images/inundation.png"/>
+### [Predictive Policing in Chicago](https://seanm4.github.io/PredictivePolicing-Chicago/ChicagoPolicing.html)
+<img src="images/chicago.png"/>
 
 ---
 
-### [Predictive Policing in Chicago](https://seanm4.github.io/PredictivePolicing-Chicago/ChicagoPolicing.html)
-<img src="images/chicago.png"/>
+### [Flood Inundation Zones](https://seanm4.github.io/Inundation/CPLN675_HW3_CGYEDM.html)
+<img src="images/inundation.png"/>
 
 ---
 
