@@ -9,17 +9,28 @@ Click on each project's title to see more.
 
 ---
 
+### [Plotting Philly Violence - Hospital Site Selection](https://storymaps.arcgis.com/stories/955a4cf579544ac495d2b4c8ccf45d1d)
+<img src="images/shootings.png"/>
+
+---
+
+### [Predicting Home Sale Price in Boulder, CO.](https://seanm4.github.io/BoulderHousePrices/BoulderHousing.html)
+<img src="images/boulderprice.png"/>
+
+---
+
 ### [Flood Inundation Zones](https://seanm4.github.io/Inundation/CPLN675_HW3_CGYEDM.html)
 <img src="images/inundation.png"/>
 
 ---
 
-### [Predicting Indego Bike Rides in Philadelphia](https://seanm4.github.io/Indego/IndegoPred.html)
-<img src="images/indego.gif"/>
-
----
 ### [Predictive Policing in Chicago](https://seanm4.github.io/PredictivePolicing-Chicago/ChicagoPolicing.html)
 <img src="images/chicago.png"/>
+
+---
+
+### [Predicting Indego Bike Rides in Philadelphia](https://seanm4.github.io/Indego/IndegoPred.html)
+<img src="images/indego.gif"/>
 
 ---
 
@@ -41,16 +52,6 @@ Click on each project's title to see more.
 
 ### [Predicting Gun Violence](https://seanm4.github.io/philly-gun-violence/gunviolence.pdf)
 <img src="images/gunviolence.png"/>
-
----
-
-### [Predicting Home Sale Price in Boulder, CO.](https://seanm4.github.io/BoulderHousePrices/BoulderHousing.html)
-<img src="images/boulderprice.png"/>
-
----
-
-### [Plotting Philly Violence - Hospital Site Selection](https://storymaps.arcgis.com/stories/955a4cf579544ac495d2b4c8ccf45d1d)
-<img src="images/shootings.png"/>
 
 ---
 
